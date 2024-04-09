@@ -1,0 +1,7 @@
+C:\Users\jonathan.norstrom\source\repos\Uppgift Generiska klasser\bin\Debug\Uppgift Generiska klasser.exe.config
+C:\Users\jonathan.norstrom\source\repos\Uppgift Generiska klasser\bin\Debug\Uppgift Generiska klasser.exe
+C:\Users\jonathan.norstrom\source\repos\Uppgift Generiska klasser\bin\Debug\Uppgift Generiska klasser.pdb
+C:\Users\jonathan.norstrom\source\repos\Uppgift Generiska klasser\obj\Debug\Uppgift Generiska klasser.csproj.AssemblyReference.cache
+C:\Users\jonathan.norstrom\source\repos\Uppgift Generiska klasser\obj\Debug\Uppgift Generiska klasser.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.norstrom\source\repos\Uppgift Generiska klasser\obj\Debug\Uppgift Generiska klasser.exe
+C:\Users\jonathan.norstrom\source\repos\Uppgift Generiska klasser\obj\Debug\Uppgift Generiska klasser.pdb
